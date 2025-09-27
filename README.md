@@ -1,7 +1,7 @@
 ## Olá, eu sou o Alex!!👋
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/alex-meneses/">
+  <a href="https://www.linkedin.com/in/alex-meneses-099254387/">
     <img height="30" width="40"
         alt="Linkedin Alex Meneses"
         title="Linkedin Alex Meneses"
