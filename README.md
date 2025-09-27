@@ -6,4 +6,8 @@
         alt="Linkedin Alex Meneses"
         title="Linkedin Alex Meneses"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>
-  <a >       
+  <a href="https://www.instagram.com/alexx.uou/">       
+    <img height="30" width="40"
+        alt="instagram Alex Meneses"
+        title=" Instagram Alex Meneses"
+        src="https://www.instagram.com/alexx.uou/"/>
