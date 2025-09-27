@@ -1,5 +1,5 @@
-## Olá, eu sou o Alex!!👋
-
+## Alex Meneses👋
+Me chamo Alex, tenho 19 anos, sou natural de Teresina no **Piauí** e atualmente estou cursando **Tecnólogo em Sistemas de Computação** na **UESPI** de **Parnaíba**
 <p align="left">
   <a href="https://www.linkedin.com/in/alex-meneses-099254387/">
     <img height="30" width="40"
